@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sqliteEmployee</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="loginTxt">login page</string>
+    <string name="full_name">full name</string>
+    <string name="emp_name">emp name</string>
+    <string name="welcome">welcome</string>
+</resources>
